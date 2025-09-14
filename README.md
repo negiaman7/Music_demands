@@ -3,9 +3,9 @@
 This project is based on https://github.com/rishabhnmishra/SQL_Music_Store_Analysis for educational and practice purposes.
 There are a few scenario-based queries that were generally asked-
 ## Basic
-# Who is the senior-most employee based on job title?
-# Which country has the most invoices?
-# What are the top 3 values of total invoices?
+ Who is the senior-most employee based on job title?
+ Which country has the most invoices?
+ What are the top 3 values of total invoices?
 
 ## Moderate
 -Which city has the best customer? Which city has the highest sum of invoice totals? Return both the city name and the sum of all invoice totals
