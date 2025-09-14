@@ -4,7 +4,9 @@ This project is based on https://github.com/rishabhnmishra/SQL_Music_Store_Analy
 There are a few scenario-based queries that were generally asked-
 ## Basic
  Who is the senior-most employee based on job title?
+ 
  Which country has the most invoices?
+ 
  What are the top 3 values of total invoices?
 
 ## Moderate
